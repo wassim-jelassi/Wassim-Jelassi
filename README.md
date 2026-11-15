@@ -88,32 +88,11 @@ Drivers publish rides on an interactive map, passengers book seats, chat in real
 
 <br/>
 
-## 🧊 My contributions in 3D
 
-<div align="center">
-
-<!-- Généré automatiquement par le workflow .github/workflows/profile-3d.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
-</picture>
-
-</div>
 
 <br/>
 
-## 🐍 Contribution snake
 
-<div align="center">
-
-<!-- Généré automatiquement par le workflow .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wassim-jelassi/wassim-jelassi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wassim-jelassi/wassim-jelassi/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/wassim-jelassi/wassim-jelassi/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 <br/>
 
