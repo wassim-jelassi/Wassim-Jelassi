@@ -58,8 +58,8 @@ const wassim = {
 <tr>
 <td width="62%">
 
-### 🚗 [![MyCoRide](<img width="1847" height="959" alt="MycoRide gtaph " src="https://github.com/user-attachments/assets/a1f811b6-ef20-440a-b4e6-aebb725d32e3" />
-)](https://github.com/wassim-jelassi/mycoride)
+### 🚗 (<img width="1847" height="959" alt="MycoRide gtaph " src="https://github.com/user-attachments/assets/a1f811b6-ef20-440a-b4e6-aebb725d32e3" />
+
 **A carpooling platform for students in Greater Tunis.**
 
 Drivers publish rides on an interactive map, passengers book seats, chat in real time and review each other after the trip. An admin dashboard handles account verification and review moderation.
