@@ -117,16 +117,7 @@ Drivers publish rides on an interactive map, passengers book seats, chat in real
 
 <br/>
 
-## 📊 GitHub stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wassim-jelassi&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=14D8B4&text_color=E5E7EB&icon_color=1D6FFF&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-jelassi&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=14D8B4&text_color=E5E7EB" alt="Top languages" />
-
-</div>
-
-<br/>
 
 ## 📫 Let's connect
 
@@ -137,4 +128,4 @@ I'm looking for an **apprenticeship in Cloud Computing, Cybersecurity, or Networ
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:14D8B4,50:1D6FFF,100:0B1F3A&section=footer" alt="footer" />
 
 </div>
-"# Wassim-Jelassi" 
+
