@@ -3,7 +3,7 @@
 <!-- ═══════════════ HEADER (animé) ═══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1F3A,50:1D6FFF,100:14D8B4&text=Hi%2C%20I'm%20Wassim&fontColor=FFFFFF&fontSize=58&fontAlignY=36&animation=fadeIn&desc=Cloud%20%26%20Cybersecurity%20Engineering%20Student&descSize=20&descAlignY=58" alt="Hi, I'm Wassim" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=14D8B4&center=true&vCenter=true&width=720&lines=Engineering+student+%40+SESAME+University;Cloud+%C2%B7+Cybersecurity+%C2%B7+Networks;I+build+full-stack+apps+and+secure+infrastructures;Open+to+IT+%2F+Cloud+Security+apprenticeships" alt="Typing animation" />
