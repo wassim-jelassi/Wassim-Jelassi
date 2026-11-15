@@ -75,13 +75,7 @@ Drivers publish rides on an interactive map, passengers book seats, chat in real
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 </td>
-<td width="38%" align="center">
 
-<a href="https://github.com/wassim-jelassi/mycoride">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim-jelassi&repo=mycoride&theme=transparent&title_color=14D8B4&text_color=9CA3AF&icon_color=1D6FFF&border_color=1D6FFF&hide_border=false" alt="MyCoRide repo card" />
-</a>
-
-</td>
 </tr>
 </table>
 
