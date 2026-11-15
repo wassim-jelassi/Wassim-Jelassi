@@ -58,7 +58,7 @@ const wassim = {
 <tr>
 <td width="62%">
 
-<div align="center"> ### 🚗 MyCoRide </div>
+<div align="center">  🚗 MyCoRide </div>
 <br/><img width="1847" height="959" alt="MycoRide gtaph " src="https://github.com/user-attachments/assets/a1f811b6-ef20-440a-b4e6-aebb725d32e3" />
 
 **A carpooling platform for students in Greater Tunis.**
